@@ -1,0 +1,7 @@
+C:\VS2015Proj\GameServer_FightTheLandlord\GameServer_FightTheLandlord\bin\Debug\GameServer_FightTheLandlord.exe.config
+C:\VS2015Proj\GameServer_FightTheLandlord\GameServer_FightTheLandlord\bin\Debug\GameServer_FightTheLandlord.exe
+C:\VS2015Proj\GameServer_FightTheLandlord\GameServer_FightTheLandlord\bin\Debug\GameServer_FightTheLandlord.pdb
+C:\VS2015Proj\GameServer_FightTheLandlord\GameServer_FightTheLandlord\bin\Debug\LitJson.dll
+C:\VS2015Proj\GameServer_FightTheLandlord\GameServer_FightTheLandlord\obj\Debug\GameServer_FightTheLandlord.csprojResolveAssemblyReference.cache
+C:\VS2015Proj\GameServer_FightTheLandlord\GameServer_FightTheLandlord\obj\Debug\GameServer_FightTheLandlord.exe
+C:\VS2015Proj\GameServer_FightTheLandlord\GameServer_FightTheLandlord\obj\Debug\GameServer_FightTheLandlord.pdb
